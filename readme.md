@@ -13,6 +13,7 @@
     npm install
     brew install allure
     npm i -D @shelex/cypress-allure-plugin
+
 ---
 #### Command line to run tests via terminal
 
@@ -30,6 +31,7 @@
 
 ---
 #### Command line to display Allure reporters
+
     cd cypress
     allure generate allure-results
     allure open allure-report
@@ -37,5 +39,6 @@
 ---
 #### Information
 
+    The 'exploratoryManualTest.txt' file contains a manual test containing a possible improvement on the site "rain.us".
  - 
 
