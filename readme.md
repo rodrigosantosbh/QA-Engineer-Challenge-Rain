@@ -1,42 +1,41 @@
-### Projeto de automação de testes Frontend
-
+### Frontend test automation project ###
 ---
-#### Tecnologias utilizadas
+#### Technologies
 
-- JavaScript (Linguagem)
+- JavaScript (Language)
 - Cypress (Framework)
 - Allure (Reports)
 - Page Objects
 
 ---
-#### Linha de comando para instalação das dependências do projeto
+#### Command line for installing project dependencies
 
     npm install
     brew install allure
     npm i -D @shelex/cypress-allure-plugin
 ---
-#### Linha de comando para execução dos testes via terminal
+#### Command line to run tests via terminal
 
     npm run cypress:run
 
 ---
-#### Linha de comando para abrir o cypress
+#### Command line to open cypress
 
     npm run cypress:open
 
 ---
-#### Linha de comando para executacao dos testes e geracao dos reports do Allure
+#### Command line to run tests and generate Allure reports
 
     npx cypress run --env allure=true
 
 ---
-#### Linha de comando para exibição dos reports do Allure()
+#### Command line to display Allure reporters
     cd cypress
     allure generate allure-results
     allure open allure-report
     
 ---
-#### Informações
+#### Information
 
  - 
 
