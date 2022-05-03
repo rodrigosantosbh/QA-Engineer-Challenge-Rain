@@ -1,0 +1,12 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "pageLoadTimeout": 60000,
+    "screenshotsFolder": "cypress/test-results/screenshots/",
+    "videosFolder": "cypress/test-results/videos/",
+    "video": false,
+    "env": {
+      "allure": true,
+      "allureResultsPath": "cypress/allure-results/"
+    }
+}

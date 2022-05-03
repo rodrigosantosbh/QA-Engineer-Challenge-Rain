@@ -1,0 +1,14 @@
+### Exploratory Manual Test ###
+
+
+STEPS
+1 - Visit https://rain.us/
+2 - Click 'Employers Access' button
+3 - Click 'Forgot?' button
+4 - Type a e-mail
+5 - Click 'Send reset code''
+6 - Type any code
+7 - Click 'Next' button
+8 - Click 'Back' button
+
+Result: The website leads to a white page 'https://employer.rain.us/#/password/recovery/confirm' and show the message 'loading...'
